@@ -1,0 +1,12 @@
+.btn-modern {
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-modern:hover {
+    background-color: hsl(350, 100%, 50%);
+    color: darkgrey;
+    transform: translateY(-5px);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    cursor: pointer;
+}
